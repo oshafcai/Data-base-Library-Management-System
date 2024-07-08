@@ -1,0 +1,42 @@
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.addBookAdmin.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.borrowBook.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.browseBooks.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.deleteBook.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.deleteStudent.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.loginForm.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.menuAdmin.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.menuUser.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.Properties.Resources.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.signupForm.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagmentSystem.UpdateBookForm.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagmentSystem.UpdateUserForm.resources
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\bin\Debug\LibraryProjectDB.exe.config
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\bin\Debug\LibraryProjectDB.exe
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\bin\Debug\LibraryProjectDB.pdb
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.exe
+C:\Users\dell\Desktop\EducationNour\CS\Database\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.pdb
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\bin\Debug\lib.mdf
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\bin\Debug\lib_log.ldf
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\bin\Debug\LibraryProjectDB.exe.config
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\bin\Debug\LibraryProjectDB.exe
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\bin\Debug\LibraryProjectDB.pdb
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.csproj.AssemblyReference.cache
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.addBookAdmin.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.borrowBook.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.browseBooks.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.deleteBook.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.deleteStudent.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.loginForm.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.menuAdmin.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.menuUser.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.Properties.Resources.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagementSystem.signupForm.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagmentSystem.UpdateBookForm.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryManagmentSystem.UpdateUserForm.resources
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.csproj.GenerateResource.cache
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.exe
+C:\Users\Mariam Omar\Desktop\20220130_20220156_22021070_20220355_20221145_20220365\LibraryProjectDB\LibraryProjectDB\obj\Debug\LibraryProjectDB.pdb
